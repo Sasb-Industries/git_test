@@ -1,0 +1,11 @@
+nav {
+    background-color:bisque;
+    color: black;
+    flex-direction: row;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
